@@ -1,5 +1,0 @@
-Hallo pak, salam kenal nama saya Intan
-
-Resolusi Saya :
-- Membuat website menggunakan framework javascript
-- Ingin mempunyai bisnis sendiri
